@@ -20,16 +20,19 @@
         }
         .container {
             background-color: rgba(0, 0, 0, 0.8);
-            padding: 20px;
+            padding: 40px;
             border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
         }
         h1 {
-            font-size: 3em;
-            margin-bottom: 0.5em;
+            font-size: 3.5em;
+            margin-bottom: 0.3em;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
         }
         p {
-            font-size: 1.2em;
+            font-size: 1.5em;
             margin-bottom: 1em;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
         }
         .button {
             display: inline-block;
@@ -40,10 +43,12 @@
             border: none;
             border-radius: 5px;
             text-decoration: none;
-            transition: background-color 0.3s;
+            transition: background-color 0.3s, transform 0.3s;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
         }
         .button:hover {
             background-color: #21a1f1;
+            transform: scale(1.05);
         }
     </style>
 </head>
@@ -51,7 +56,7 @@
     <div class="container">
         <h1>KEEPING INVESTORS SECURE</h1>
         <p>Detailed Statistics and Critical Measures</p>
-        <p>The best Dashboards</p>
+        <p>The Best Dashboards</p>
         <a href="/dashboard" class="button">ENTER THE DASHBOARD</a>
     </div>
 </body>
