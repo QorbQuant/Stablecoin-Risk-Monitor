@@ -2,13 +2,22 @@
 
 Dashboard based on my Dune dash - all queries created by me (Degenerate_DeFi)
 
+[[Insert Link]]
 
 ## Tracking Pools (Ethereum Only)
 
-sUSDe:
+**sUSDe:**
 - Uniswap sUSDe/USDT: 0x867B321132B18B5BF3775c0D9040D1872979422E 
 - Bancor sUSDe/USDC: 0xb819feef8f0fcdc268afe14162983a69f6bf179e
 - Curve sDAI/sUSDe: 0x167478921b907422f8e88b43c4af2b8bea278d3a
 - Curve sUSDe/sDAI/sFRAX: 0xc559f6716d8b1471fc2dc10aafeb0faa219fe9df
 - Curve sUSDe/crvUSD: 0x57064f49ad7123c92560882a45518374ad982e85
 
+**sDAI:**
+- Curve sUSDe/sDAI:
+- Curve sUSDe/sDAI/sFRAX:
+- Curve FRAXsDAI:
+- Curve crvUSD/sDAI:
+- Balancer sDAI/GYD:
+- Balancer sDAI/3pool:
+- Balancer sDAI/GYD:
