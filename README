@@ -14,10 +14,11 @@ Dashboard based on my Dune dash - all queries created by me (Degenerate_DeFi)
 - Curve sUSDe/crvUSD: 0x57064f49ad7123c92560882a45518374ad982e85
 
 **sDAI:**
-- Curve sUSDe/sDAI:
-- Curve sUSDe/sDAI/sFRAX:
-- Curve FRAXsDAI:
-- Curve crvUSD/sDAI:
-- Balancer sDAI/GYD:
-- Balancer sDAI/3pool:
-- Balancer sDAI/GYD:
+- Curve sUSDe/sDAI: 0x167478921b907422f8e88b43c4af2b8bea278d3a
+- Curve sUSDe/sDAI/sFRAX: 0xc559f6716d8b1471fc2dc10aafeb0faa219fe9df
+- Curve FRAXsDAI: 0xce6431d21e3fb1036ce9973a3312368ed96f5ce7
+- Curve sDAI/USDM:0x425bfb93370f14ff525adb6eaeacfe1f4e3b5802
+- Curve crvUSD/sDAI:0xc55bcf5370e67fba281e2aac8937b4ea71e7785f
+- Balancer sDAI/GYD:0xc55bcf5370e67fba281e2aac8937b4ea71e7785f
+- Balancer sDAI/3pool:0x49cbd67651fbabce12d1df18499896ec87bef46f
+- Balancer sDAI/GYD:0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6
