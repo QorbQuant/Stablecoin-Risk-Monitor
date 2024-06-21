@@ -22,3 +22,41 @@ Dashboard based on my Dune dash - all queries created by me (Degenerate_DeFi)
 - Balancer sDAI/GYD:0xc55bcf5370e67fba281e2aac8937b4ea71e7785f
 - Balancer sDAI/3pool:0x49cbd67651fbabce12d1df18499896ec87bef46f
 - Balancer sDAI/GYD:0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6
+
+**sFRAX**
+- Curve	sFRAX/crvUSD: 0x73a0cba58c19ed5f27c6590bd792ec38de4815ea	
+- Curve	sUSDe/sDAI /sFRAX: 0xc559f6716d8b1471fc2dc10aafeb0faa219fe9df	
+
+**crvUSD**
+- 0x390f3595bca2df7d23783dfd126427cceb997bf4 - - Curve crvUSD/USDT
+- ,0x4dece678ceceb27446b35c672dc7d61f30bad69e -- Curve crvUSD/USDC
+- ,0xf55b0f6f2da5ffddb104b58a60f2862745960442 -  Curve cUSDe-crvUSD
+- ,0x94cc50e4521bd271c1a997a3a4dc815c2f920b41 - Curve crvUSD/SUSD
+- ,0x3de254a0f838a844f727fee81040e0fa7884b935 - Curve mkUSD/crvUSD
+- ,0x0cd6f267b2086bea681e922e19d40512511be538 - Curve crvUSD/FRAX
+- ,0x635ef0056a597d13863b73825cca297236578595 - Curve GHO/crvUSD
+- ,0x625e92624bc2d88619accc1788365a69767f6200 - Curve crvUSD/USDP
+- ,0x34d655069f4cac1547e4c8ca284ffff5ad4a8db0 - Curve crvUSD/TUSD
+- ,0x085780639cc2cacd35e474e71f4d000e2405d8f6 - Curve crvUSDT/fxUSD
+- ,0x73a0cba58c19ed5f27c6590bd792ec38de4815ea - Curve crvUSD/sFRAX
+- ,0x8272e1a3dbef607c04aa6e5bd3a1a134c8ac063b - Curve LUSD/crvUSD
+- ,0x625e92624bc2d88619accc1788365a69767f6200 - Curve pyUSD/crvUSD
+- ,0x8272e1a3dbef607c04aa6e5bd3a1a134c8ac063b - Curve crvUSD/DOLA
+- ,0x8c24b3213fd851db80245fccc42c40b94ac9a745 - Curve crvUSD/zunUSD
+- ,0x9e641187391b7a5fe9ee193359408ca3894f68a2 - Curve thUSD/crvUSD
+- ,0xc55bcf5370e67fba281e2aac8937b4ea71e7785f - Curve crvUSD/sDAI
+- ,0xecdd0ce505da71cd9de855cd6804ba1e8c7bdb07 - Curve crvUSD/GUSD
+- ,0xca978a0528116dda3cba9acd3e68bc6191ca53d0 - Curve crvUSD/USDP
+
+
+**fxUSD**
+0x65d72aa8da931f047169112fcf34f52dbaae7d18 -- Curve fxUSD/rUSD
+,0x1ee81c56e42ec34039d993d12410d437ddea341e -- Curve FRAX/fxUSD
+,0x8ffc7b89412efd0d17edea2018f6634ea4c2fcb2 -- Curve crvUSD/fxUSD
+,0x74345504eaea3d9408fc69ae7eb2d14095643c5b -- Curve GHO/fxUSD
+,0xca554e2e2948a211d4650fe0f4e271f01f9cb5f1 -- Curve mkUSD/fxUSD
+,0xd6982da59f1d26476e259559508f4135135cf9b8 -- Curve pyUSD/fxUSD
+,0x189b4e49b5caf33565095097b4b960f14032c7d0 -- Curve Dola/fxUSD
+,0x16b54e3ac8e3ba088333985035b869847e36e770 -- Curve eUSD/fxUSD
+,0x6fc7ea6ca8cd2759803eb78159c931a8ff5e0557 -- Curve rev fxUSD
+,0x27cb9629ae3ee05cb266b99ca4124ec999303c9d -- Curve alUSD/fxUSD
